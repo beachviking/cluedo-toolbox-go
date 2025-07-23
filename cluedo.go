@@ -1,6 +1,5 @@
 // cluedo.go
 // A command-line toolbox for Cluedo (Clue) with a master-level AI.
-// This is the final, complete, and fully functional version.
 
 package main
 
