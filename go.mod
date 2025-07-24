@@ -1,4 +1,4 @@
-module example.com/cluedo
+module cluedo-toolbox
 
 go 1.24.3
 
