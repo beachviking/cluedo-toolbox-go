@@ -1,6 +1,3 @@
-cluedo.exe
-cluedo.txt
-dump.txt
-test_run.txt
-cluedo
+/cluedoapp.exe
+/cluedoapp
 *.sh
